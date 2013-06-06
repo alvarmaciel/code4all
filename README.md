@@ -1,4 +1,4 @@
 code4all
 ========
 
-Strategies and resources 4 coders, teachers and learners
+Pedagogical strategies and resources 4 coders, teachers and learners
